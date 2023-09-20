@@ -26,10 +26,10 @@ Bring back the `museum.sql` from server with `phpmyadmin` to local computer and 
 Update `category`, `subject` and `sub_subject` table in the `newmuseum`
 `art move:subject`
 
-Gives color_id based on average image color in `list` table. This script is in `museum-data-cleanup` repository
+Gives `color_id` based on average image colour in `list` table. This script is in `museum-data-cleanup` repository
 `./enterColorFromImage.py`
 
-Delete all the Objects in S3 `thetibetmuseum`
+Delete all the Objects in `S3` `thetibetmuseum`
 
 Migrate on your local machine
 `art move:all`
@@ -38,16 +38,16 @@ Migrate on your local machine
 Export the `newmuseum.sql` file out of local 
 `mysqldump -u root -p newmuseum > newmuseum.sql`
 
-Copy the `newmsuem.sql` file to The Museum EC2 server
+Copy the `newmsuem.sql` file to The Museum `EC2` server
 `scp -i "first key pair.pem" ~/newmuseum.sql ubuntu@ec2-3-109-172-97.ap-south-1.compute.amazonaws.com:~`
 
-Import the `newmsueum.sql` file in The Museum EC2 server
+Import the `newmsueum.sql` file in The Museum `EC2` server
 `mysql -u root -p newmuseum < ~/newmuseum.sql`
 
-To upload 3D Objects static sites to S3 `museumobject` bucket
+To upload `3D` Objects static sites to `S3` `museumobject` bucket
 `aws s3 cp objects s3://museumobject --recursive`
 
-To run the Next.js app on the server
+To run the `Next.js` app on the server
 `npm run deploy:prod`
 
 ## To Increment
@@ -102,7 +102,7 @@ npm run deploy:prod
 ```
 
 
-## Tables in Laravel Backend
+## Tables in `Laravel` Back-end
 audits
 categories
 colors

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "102c37f45c0044b3",
+        "id": "0f10a98985f13a84",
         "type": "tabs",
         "children": [
           {
-            "id": "f70fce337ed26219",
+            "id": "c9542197da00ece5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how to/how to delete a git branch.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 557.5
   },
   "right": {
     "id": "8a86dfa94f79d21e",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to/how to delete a git branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how to/how to delete a git branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "how to/how to delete a git branch.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,12 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f70fce337ed26219",
+  "active": "7c8bad1d580df0b8",
   "lastOpenFiles": [
-    "desk/AWS.md",
-    "desk",
+    "tcrc/museum/Musueum migration.md",
+    "tcrc/museum/Museum WebApp.md",
+    "tcrc/Wordpress migrate.md",
+    "tcrc/Green Book/Securing the GB.md",
+    "tcrc/museum",
+    "tcrc/Green Book/Meeting 1. Green Book digitization process.md",
+    "tcrc/Green Book/List of faulty gbNo in staff db.md",
+    "tcrc/Green Book/Green Book local set up.md",
+    "tcrc/Green Book/GB data cleaning.md",
+    "tcrc/Green Book/ctadb database.md",
     "desk/TibetKit.org.md",
     "desk/Prisma.md",
+    "desk/AWS.md",
+    "how to/how to delete a git branch.md",
+    "desk",
     "OpenPecha/Toolkit.md",
     "OpenPecha/Tokenizer.md",
     "ML/Speech to Text.md",
@@ -170,22 +173,13 @@
     "how to/how to Self-Host a Next app.md",
     "OpenPecha/RFW0017 - .otr to .eaf Pipeline.md",
     "how to/how to ssh without entering password.md",
-    "tcrc/Wordpress migrate.md",
     "how to/how to tmux.md",
     "tcrc/Power BI.md",
     "pm2.md",
     "tcrc/New Server setup.md",
-    "tcrc/NAS.md",
-    "how to/how to Apache reverse proxy.md",
-    "how to/how to GitHub Actions.md",
-    "how to/how to Install WordPress With Docker Compose.md",
-    "how to/how to map hostnames to IP address.md",
-    "how to/how to MySQL remote connection.md",
-    "tcrc/Git on LaraServer.md",
-    "tcrc/Cybersecurity.md",
     "ML",
     "Untitled.canvas",
     "how to",
-    "tcrc/Green Book Digitisation"
+    "tcrc/Green Book"
   ]
 }
