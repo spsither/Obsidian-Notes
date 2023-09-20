@@ -1,4 +1,4 @@
-go to a director and create a python3 environment
+go to a director and create a `python3` environment
 `python3 -m venv .env`
 
 activate the environment

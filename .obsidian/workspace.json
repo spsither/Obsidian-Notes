@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6cc19b28685675",
+        "id": "102c37f45c0044b3",
         "type": "tabs",
         "children": [
           {
-            "id": "16b98b468634b66f",
+            "id": "f70fce337ed26219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenPecha.md",
+                "file": "how to/how to delete a git branch.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,9 +64,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "14080c7f597312a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenPecha.md",
+                "file": "how to/how to delete a git branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenPecha.md",
+                "file": "how to/how to delete a git branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenPecha.md"
+                "file": "how to/how to delete a git branch.md"
               }
             }
           }
@@ -147,34 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16b98b468634b66f",
+  "active": "f70fce337ed26219",
   "lastOpenFiles": [
-    "RFC.md",
-    "OpenPecha.md",
-    "RFW0017 - .otr to .eaf Pipeline.md",
-    "how to delete a git branch.md",
-    "Tokenizer.md",
-    "Prisma.md",
-    "OpenPecha Notes.md",
-    "NLP.md",
-    "Toolkit.md",
-    "RFC0017.md",
-    "work/firewall for 172.28.13.2.md",
-    "work/Green Book Digitisation/ctadb database.md",
-    "work/Green Book Digitisation/Meeting 1. Green Book digitization process.md",
-    "work/Green Book Digitisation/List of faulty gbNo in staff db.md",
-    "work/Green Book Digitisation/Green Book local set up.md",
-    "work/Green Book Digitisation/GB data cleaning.md",
-    "work/Green Book Digitisation",
-    "work/Data cleaning for Power BI.md",
-    "work/CTA's 1st Digital Strategy Development Meeting.md",
+    "desk/AWS.md",
+    "desk",
+    "desk/TibetKit.org.md",
+    "desk/Prisma.md",
+    "OpenPecha/Toolkit.md",
+    "OpenPecha/Tokenizer.md",
+    "ML/Speech to Text.md",
+    "OpenPecha/OpenPecha.md",
+    "OpenPecha/RFC.md",
+    "OpenPecha",
+    "how to/how to make python virtual environment.md",
+    "how to/how to Self-Host a Next app.md",
+    "OpenPecha/RFW0017 - .otr to .eaf Pipeline.md",
+    "how to/how to ssh without entering password.md",
+    "tcrc/Wordpress migrate.md",
+    "how to/how to tmux.md",
+    "tcrc/Power BI.md",
     "pm2.md",
-    "map hostnames to IP address.md",
-    "Staff Survey.md",
-    "RAID.md",
-    "NAS.md",
-    "GitHub Acitons.md",
-    "Centralised logging system.md",
-    "python virtual environment venv.md"
+    "tcrc/New Server setup.md",
+    "tcrc/NAS.md",
+    "how to/how to Apache reverse proxy.md",
+    "how to/how to GitHub Actions.md",
+    "how to/how to Install WordPress With Docker Compose.md",
+    "how to/how to map hostnames to IP address.md",
+    "how to/how to MySQL remote connection.md",
+    "tcrc/Git on LaraServer.md",
+    "tcrc/Cybersecurity.md",
+    "ML",
+    "Untitled.canvas",
+    "how to",
+    "tcrc/Green Book Digitisation"
   ]
 }

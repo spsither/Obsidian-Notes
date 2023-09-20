@@ -1,7 +1,7 @@
-## using pm2
-install pm2
+## using `pm2`
+install `pm2`
 `npm install pm2 -g`
-go to Next.js project dir and scaffold a deployment script
+go to `Next.js` project `dir` and scaffold a deployment script
 `pm2 init simple`
 put the following in the `ecosystem.config.js`
 ```javascript

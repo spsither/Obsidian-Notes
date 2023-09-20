@@ -73,6 +73,6 @@ network:
 ```
 Apply the changes with
 > sudo netplan apply
-- Optionally do [[ssh without entering password]]
+- Optionally do [[how to ssh without entering password]]
 - Do the [initial server setup](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-22-04)
 - Do [install docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)

@@ -1,7 +1,7 @@
 Visibility tab
 Sentinels tab
 Remote shell ?
-	Incident responce script
+	Incident response script
 	Power Shell for windows and bash for linux
 	
 Incident Tab

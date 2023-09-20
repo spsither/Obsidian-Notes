@@ -1,5 +1,5 @@
 # Workflow
-- Import data from any source by configuring [[MySQL remote connecion]]
+- Import data from any source by configuring [[how to MySQL remote connection]]
 - Transform data
 	- find the GB column 
 	- duplicate the GB column by right clicking the column

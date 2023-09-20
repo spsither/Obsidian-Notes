@@ -156,7 +156,7 @@ interactive.tibetmuseum.org.conf
 ```
 
 
-Note that for NextJs I am using  [[Apache reverse proxy]] and [[how to tmux]] to keep the node app running.
+Note that for NextJs I am using  [[how to Apache reverse proxy]] and [[how to tmux]] to keep the node app running.
 
 For MySQL I did [[how to secure MySQL installation]]
 
