@@ -1,0 +1,11 @@
+- Address 
+	- Palden Kungno Syikong Penpa Tsering la
+	- Chidrel Kalon Norzin Dolma la 
+	- Chitrel Drungche Karma Choying la
+	- TCRC Director Tenzin Tsultrim la 
+- Speakers
+	- Gonpo
+	- Samthen
+	- Dhundup Pasang
+	- Tenzin Thai
+- Tsokchar Wa (  )

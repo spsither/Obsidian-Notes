@@ -1,0 +1,13 @@
+# What is an RFC
+- is an issue in [Requests](https://github.com/OpenPecha/Requests) that has to be transferred to it's project 
+- it uses an issue template
+- can be create using [create issues](https://github.com/OpenPecha/Requests/issues/new/choose)
+- it's about **how** specifications will be satisfied and **when**
+- has many work items | tasks | work phases
+	- is in project Kanban board to track it
+	- can be created with checkbox - [ ] tasks name
+	- will be transferred from OpenPecha/Requests to project repo
+	- will be [converted into issues](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#about-issue-task-lists) and [linked to a PR](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#manually-linking-a-pull-request-or-branch-to-an-issue-using-the-issue-sidebar) in the project repo
+	- it is automatically marked as completed when the PR is closed
+- make a project with project template `basic kanban` or `Automated kanban with reviews` 
+- my RFC can be worked on as a branch of [[OpenPecha]]

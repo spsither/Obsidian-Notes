@@ -1,0 +1,28 @@
+- SIEM/security analytics
+- XDR
+	- native
+	- hybrid
+- Modernization of the security stack is crucial
+	- Detecting malicious user behavior
+	- Finding unknown and advanced threats
+	- Adapting to future threats 
+	- Supplementing or replacing existing SIEM and security analytics platforms to support needs in 22023 and beyond
+- Elastic's Global Threat Report
+	- attackers abuse built-in binary proxies to evade security
+	- configure service accounts with least-privilege permissions
+- Malware family
+	- Meterpreter
+	- Gafgyt
+	- Mirai
+	- Camelot
+	- Generic
+	- Dofloo
+	- BPFDoor
+	- Ransomexx
+	- Neshta
+	- Getshell
+- Over-investing in detection that do not also support mitigation will struggle
+- For AWS use
+	- CloudTrail
+	- GuardDuty
+	- Security Hub
